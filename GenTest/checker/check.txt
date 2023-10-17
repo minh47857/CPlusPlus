@@ -1,0 +1,6 @@
+sinhtest > in
+numlcs < in > out
+numlcs_check < in> o
+fc out o
+if errorlevel 1 exit
+check

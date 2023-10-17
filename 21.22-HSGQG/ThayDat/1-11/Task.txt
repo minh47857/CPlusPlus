@@ -1,0 +1,4 @@
+https://oj.vnoi.info/problem/fc102_agame
+https://oj.vnoi.info/problem/fc104_fsum
+https://oj.vnoi.info/problem/fc105_distsum
+https://oj.vnoi.info/problem/fc103_areasum

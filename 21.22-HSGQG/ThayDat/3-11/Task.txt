@@ -1,0 +1,3 @@
+https://oj.vnoi.info/problem/fc100_ninjaset
+https://oj.vnoi.info/problem/fc100_treetrip
+https://oj.vnoi.info/problem/fc100_champion
